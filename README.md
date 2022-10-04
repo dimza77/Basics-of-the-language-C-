@@ -1,1 +1,1 @@
-# Основы языка С#
+# basics-of-the-language-C-
