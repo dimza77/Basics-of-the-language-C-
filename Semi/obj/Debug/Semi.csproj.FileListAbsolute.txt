@@ -1,0 +1,16 @@
+C:\Users\Дмитрий\source\repos\Lesson_1\Semi\bin\Debug\Semi.exe.config
+C:\Users\Дмитрий\source\repos\Lesson_1\Semi\bin\Debug\Semi.exe
+C:\Users\Дмитрий\source\repos\Lesson_1\Semi\bin\Debug\Semi.pdb
+C:\Users\Дмитрий\source\repos\Lesson_1\Semi\obj\Debug\Semi.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Lesson_1\Semi\obj\Debug\Semi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\source\repos\Lesson_1\Semi\obj\Debug\Semi.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Lesson_1\Semi\obj\Debug\Semi.exe
+C:\Users\Дмитрий\source\repos\Lesson_1\Semi\obj\Debug\Semi.pdb
+C:\Users\Дмитрий\source\repos\basics-of-the-language-C-\Semi\bin\Debug\Semi.exe.config
+C:\Users\Дмитрий\source\repos\basics-of-the-language-C-\Semi\bin\Debug\Semi.exe
+C:\Users\Дмитрий\source\repos\basics-of-the-language-C-\Semi\bin\Debug\Semi.pdb
+C:\Users\Дмитрий\source\repos\basics-of-the-language-C-\Semi\obj\Debug\Semi.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\basics-of-the-language-C-\Semi\obj\Debug\Semi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\source\repos\basics-of-the-language-C-\Semi\obj\Debug\Semi.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\basics-of-the-language-C-\Semi\obj\Debug\Semi.exe
+C:\Users\Дмитрий\source\repos\basics-of-the-language-C-\Semi\obj\Debug\Semi.pdb
