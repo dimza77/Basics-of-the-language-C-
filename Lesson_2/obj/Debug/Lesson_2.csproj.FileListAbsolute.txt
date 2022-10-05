@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\bin\Debug\Lesson_2.exe.config
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\bin\Debug\Lesson_2.exe
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\bin\Debug\Lesson_2.pdb
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\bin\Debug\Wild.Utils.dll
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\bin\Debug\Wild.Utils.pdb
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.csproj.CopyComplete
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.exe
+C:\Users\Дмитрий\source\Repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.pdb
